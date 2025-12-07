@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="20.5mm"
-   height="20.5mm"
-   viewBox="0 0 20.5 20.5"
+   width="20.799999mm"
+   height="20.799999mm"
+   viewBox="0 0 20.799999 20.799999"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4.1585017"
-     inkscape:cx="-24.287594"
-     inkscape:cy="14.548509"
+     inkscape:zoom="5.8810095"
+     inkscape:cx="-8.5019417"
+     inkscape:cy="27.971388"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
-     inkscape:window-x="-8"
+     inkscape:window-x="2552"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -38,7 +38,7 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-68.930916,-62.695694)">
+     transform="translate(-68.780916,-62.545694)">
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect1"
@@ -47,7 +47,7 @@
        y="64.083191"
        width="17.725" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-dasharray:none"
        id="path1"
        cx="79.180916"
        cy="72.945694"
